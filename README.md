@@ -1,4 +1,4 @@
-# 一个简单是flutter布局练习
+# 一个简单的flutter布局练习
 
   photo_view: ^0.7.0 //图片预览插件
   
