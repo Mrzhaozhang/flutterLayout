@@ -1,16 +1,16 @@
-# diary
+# 一个简单是flutter布局练习
 
-A new Flutter project.
+  photo_view: ^0.7.0 //图片预览插件
+  
+  sticky_headers: ^0.1.8+1 //固定头部导航插件
+  
+  flutter_speed_dial: ^1.2.4  //悬浮按钮插件
+  
+  flutter_custom_calendar: //日历插件
+  
+      git:      
+        url: https://github.com/LXD312569496/flutter_custom_calendar.git
+        
+        
+        
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
